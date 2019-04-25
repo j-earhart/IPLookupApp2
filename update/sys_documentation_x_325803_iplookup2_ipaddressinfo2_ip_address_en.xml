@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ip_address" label="IP address" language="en" table="x_325803_iplookup2_ipaddressinfo2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <help/>
+            <hint/>
+            <label>IP address</label>
+            <language>en</language>
+            <name>x_325803_iplookup2_ipaddressinfo2</name>
+            <plural>IP address</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-24 19:35:11</sys_created_on>
+            <sys_id>b12e790ddbc133007ea78a184896194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IP address</sys_name>
+            <sys_package display_value="IPLookup2" source="x_325803_iplookup2">9c09bd45dbc133007ea78a18489619ac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup2">9c09bd45dbc133007ea78a18489619ac</sys_scope>
+            <sys_update_name>sys_documentation_x_325803_iplookup2_ipaddressinfo2_ip_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-24 19:35:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
